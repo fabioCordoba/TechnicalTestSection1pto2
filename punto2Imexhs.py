@@ -75,4 +75,6 @@ for x in range(n):
 subArreglo(entrada)
 #metodo para calcuar los sub-arrays
 
+otas cosa
+
 
