@@ -77,4 +77,6 @@ subArreglo(entrada)
 
 otas cosa
 
+otras cosas
+
 
